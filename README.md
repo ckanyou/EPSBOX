@@ -28,6 +28,7 @@ https://pytorch.org
 pip install  transformers fugashi fugashi[unidic-lite] ipadic SpeechRecognition pyaudio
 
 ※pytorchを入れないとtransformersが動きません。
+
 ※pyaudioを入れないとSpeechRecognitionがうまく動きません。
 
 vrec_frecog.pyは、Pythonフォルダの中に入れておいてください。
