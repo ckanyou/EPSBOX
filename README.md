@@ -32,3 +32,21 @@ pip install  transformers fugashi fugashi[unidic-lite] ipadic SpeechRecognition 
 ※pyaudioを入れないとSpeechRecognitionがうまく動きません。
 
 vrec_frecog.pyは、Pythonフォルダの中に入れておいてください。
+
+Arduinoの配置：
+
+中央ボタン　arduinoの7ピン
+
+左ボタン　arduinoの8ピン
+
+右ボタンをarduinoの12ピン
+
+ホール素子起動確認　arduinoの２ピン
+
+ホール素子データ受け取り　arduinoのA0ピン
+
+サーボモーター　arduinoの8ピン
+
+Arduinoにepsbix_02をいれればセットアップは完了です。
+
+あとは、EPSBOXMainにあるEPSBOX.exeを実行するだけです。
