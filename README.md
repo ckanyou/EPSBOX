@@ -4,7 +4,21 @@ python3.10.6,Unity2021.3.4f1,Arduino2.2.0を使用しました。
 
 pythonは、C:\の直下にPythonという名前のフォルダを作りeps-envという仮想環境を作ってください。
 
-pythonに必要なライブラリをインストールします。
+pythonに必要なライブラリ
+
+pytorch,
+
+tramsformers,
+
+fugashi,
+
+ipadic,
+
+SpeechRecognition,
+
+pyaudio
+
+インストール方法
 
 pytorchはご自身の環境に合わせてください。
 
